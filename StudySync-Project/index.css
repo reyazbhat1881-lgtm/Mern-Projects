@@ -62,4 +62,19 @@ body{
 
 .nav-link{
     color: #718016;
+    font-size: 1.125rem;
+    font-size: 600;
+    transform: color 0.1;
+}
+
+.nav-link:hover{
+    background-color: #2563eb;
+
+}
+
+.contact-button{
+    border: none;
+    border-radius: 0.375rem;
+    background-color: var(--primary-color);
+    color: var(--background-color);
 }
